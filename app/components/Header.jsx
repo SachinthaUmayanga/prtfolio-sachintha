@@ -18,8 +18,7 @@ const Header = () => {
         </h1>
 
         <p className='max-w-2xl mx-auto font-Ovo'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et placeat doloremque, enim quia nesciunt temporibus nisi asperiores 
-            nulla, expedita commodi unde exercitationem? Nobis nostrum consectetur cupiditate amet suscipit cum est.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et placeat doloremque, enim quia nesciunt temporibus nisi asperiores nulla, expedita commodi unde exercitationem? Nobis nostrum consectetur cupiditate amet suscipit cum est.
         </p>
 
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
