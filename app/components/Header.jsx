@@ -38,7 +38,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.7 }}
         className='max-w-2xl mx-auto font-Ovo'
         >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et placeat doloremque, enim quia nesciunt temporibus nisi asperiores nulla, expedita commodi unde exercitationem? Nobis nostrum consectetur cupiditate amet suscipit cum est.
+            Hi, I'm Sachintha Umayanga, currently following my BEng (Hons) Software Engineering Top-Up Digree at London Metropolitan University. 
         </motion.p>
 
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
@@ -55,7 +55,7 @@ const Header = () => {
             initial={{ y: 30, opacity: 0 }}
             whileInView={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.6, delay: 1.2 }}
-            href="/Sachitnha_Umayanga.pdf" download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black'
+            href="/Sachintha-Umayanga.pdf" download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white dark:text-black'
             >
                 my resume <Image src={assets.download_icon} alt='' className='w-4' />
             </motion.a>
